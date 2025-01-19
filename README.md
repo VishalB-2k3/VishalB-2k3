@@ -10,7 +10,7 @@
 
 
 # 🛠️ IDEs and Tools:
-[![My Tools](https://skillicons.dev/icons?i=vscode,,linux,grafana,git&perline=5&theme=light)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=vscode,linux,grafana,git&perline=5&theme=light)](https://skillicons.dev)
 
 # 📊 My Stats:
 ![](https://github-readme-stats.vercel.app/api?username=VishalB-2k3&theme=blueberry&hide_border=false&include_all_commits=true&count_private=false)<br/>
